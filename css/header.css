@@ -6,7 +6,7 @@
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -43,9 +43,4 @@
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
-}
-
-.address-list {
-  display: flex;
-  gap: 40px;
 }
